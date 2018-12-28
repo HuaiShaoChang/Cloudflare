@@ -2,6 +2,7 @@
 
 shopt -s nocasematch
 
+# Messages
 notSetEmailString="You haven't set your email of Cloudflare account!"
 notSetAPIKeyString="You haven't set your global API Key of Cloudflare account!"
 noKeyString="I don't need this."
